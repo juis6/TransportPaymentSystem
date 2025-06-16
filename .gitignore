@@ -1,0 +1,9 @@
+﻿bin/
+obj/
+*.user
+*.suo
+*.cache
+.vs/
+TestData/
+Output/
+Data/
