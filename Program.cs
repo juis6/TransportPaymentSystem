@@ -90,13 +90,13 @@ namespace TransportPaymentSystem
             new XDocument(
                 new XElement("Categories",
                     new XElement("Category", new XAttribute("Id", 1),
-                        new XElement("n", "Звичайний"),
+                        new XElement("Name", "Звичайний"),
                         new XElement("TripCost", 8)),
                     new XElement("Category", new XAttribute("Id", 2),
-                        new XElement("n", "Студент"),
+                        new XElement("Name", "Студент"),
                         new XElement("TripCost", 4)),
                     new XElement("Category", new XAttribute("Id", 3),
-                        new XElement("n", "Пенсіонер"),
+                        new XElement("Name", "Пенсіонер"),
                         new XElement("TripCost", 2))
                 )).Save("Data/categories.xml");
 
