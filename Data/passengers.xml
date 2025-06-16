@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Passengers>
+  <Passenger Id="1">
+    <Surname>Петренко</Surname>
+    <CategoryId>1</CategoryId>
+  </Passenger>
+  <Passenger Id="2">
+    <Surname>Іваненко</Surname>
+    <CategoryId>2</CategoryId>
+  </Passenger>
+  <Passenger Id="3">
+    <Surname>Коваленко</Surname>
+    <CategoryId>3</CategoryId>
+  </Passenger>
+</Passengers>

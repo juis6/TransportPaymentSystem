@@ -4,6 +4,4 @@ obj/
 *.suo
 *.cache
 .vs/
-TestData/
 Output/
-Data/

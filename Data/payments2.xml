@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PaymentRecords>
+  <PaymentRecord>
+    <Date>2024-02-10</Date>
+    <PassengerId>1</PassengerId>
+    <RouteNumber>5</RouteNumber>
+  </PaymentRecord>
+  <PaymentRecord>
+    <Date>2024-02-15</Date>
+    <PassengerId>2</PassengerId>
+    <RouteNumber>5</RouteNumber>
+  </PaymentRecord>
+  <PaymentRecord>
+    <Date>2024-03-05</Date>
+    <PassengerId>1</PassengerId>
+    <RouteNumber>10</RouteNumber>
+  </PaymentRecord>
+  <PaymentRecord>
+    <Date>2024-03-10</Date>
+    <PassengerId>3</PassengerId>
+    <RouteNumber>1</RouteNumber>
+  </PaymentRecord>
+</PaymentRecords>

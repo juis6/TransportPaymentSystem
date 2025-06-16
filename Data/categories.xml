@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Categories>
+  <Category Id="1">
+    <Name>Звичайний</Name>
+    <TripCost>8</TripCost>
+  </Category>
+  <Category Id="2">
+    <Name>Студент</Name>
+    <TripCost>4</TripCost>
+  </Category>
+  <Category Id="3">
+    <Name>Пенсіонер</Name>
+    <TripCost>2</TripCost>
+  </Category>
+</Categories>

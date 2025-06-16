@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Routes>
+  <Route Number="1">
+    <CurrentStop>Центр</CurrentStop>
+    <FinalStop>Вокзал</FinalStop>
+  </Route>
+  <Route Number="5">
+    <CurrentStop>Університет</CurrentStop>
+    <FinalStop>Аеропорт</FinalStop>
+  </Route>
+  <Route Number="10">
+    <CurrentStop>Лікарня</CurrentStop>
+    <FinalStop>Парк</FinalStop>
+  </Route>
+</Routes>
